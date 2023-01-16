@@ -1,1 +1,3 @@
 It's a fourth file of my project
+
+This file was modified in the new_tree_for_merge branch
